@@ -15,7 +15,7 @@ do número inserido com o número secreto. As respostas oferecidas pelo jogo sã
 
     tentativa 1: 362 Bagel — nenhum dígito correto.
     tentativa 2: 820 Pico — 8 está no lugar errado.
-    tentativa 3: 418 Pico Fermi — t8 está no lugar errado, 4 está no lugar correto.
+    tentativa 3: 418 Pico Fermi — 8 está no lugar errado, 4 está no lugar correto.
     tentativa 4: 518 Pico —  8 está no lugar errado.
     tentativa 5: 487 Fermi Fermi — 4 e 8 estão no lugar correto.
     tentativa 6: 489 Fermi Fermi Fermi — Você conseguiu!
