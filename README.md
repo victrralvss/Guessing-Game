@@ -1,1 +1,4 @@
-# Guessing-Game
+Pico, Fermi, Bagel 🎲
+
+Como jogar
+ 
