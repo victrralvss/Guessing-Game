@@ -1,4 +1,4 @@
-# Pico, Fermi, Bagel 🎲
+# Pico, Fermi, Bagels 🎲
 
 ## COMO JOGAR
 
